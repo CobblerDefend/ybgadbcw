@@ -1,19 +1,19 @@
 {
-  "built_at": 1794049544450,
+  "built_at": 1794050256304,
   "files": [
     {
       "name": "FACEITInstaller_64.exe",
-      "size": 115940672,
+      "size": 115941120,
       "url": "http://85.239.146.62:8099/files/FACEITInstaller_64.exe"
     },
     {
       "name": "Zapret2Setup_21_1_1_7.exe",
-      "size": 55732152,
+      "size": 55732200,
       "url": "http://85.239.146.62:8099/files/Zapret2Setup_21_1_1_7.exe"
     },
     {
       "name": "DiscordSetup.exe",
-      "size": 167258400,
+      "size": 167258576,
       "url": "http://85.239.146.62:8099/files/DiscordSetup.exe"
     }
   ]
